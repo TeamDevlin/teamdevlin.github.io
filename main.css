@@ -1,10 +1,12 @@
 body{
-background-color:#ccf5ff ;
+	font-family: 'Biryani';
+	font-size:20px;
+	background-color:#ccf5ff ;
 
 }
 div.title{
 	background-color: red; 
 	border-radius: 15px;
-	
+	padding-left: 15px;
 	
 }
