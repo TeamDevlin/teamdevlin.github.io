@@ -1,2 +1,0 @@
-# teamdevlin.github.io
-Homepage
