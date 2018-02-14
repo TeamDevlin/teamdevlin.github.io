@@ -9,6 +9,13 @@ body{
 div.title{
 	background: linear-gradient(white,#ccf5ff); 
 	padding-left: 15px;
+	font-size:30px;
+}
+div.subtitle{
+	font-size:20px;
+	
+	
+	
 }
 div.text{
 	
